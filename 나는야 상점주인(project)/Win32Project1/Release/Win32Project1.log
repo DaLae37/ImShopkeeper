@@ -1,6 +1,0 @@
-﻿  GameScene.cpp
-GameScene.cpp(161): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  코드를 생성하고 있습니다.
-  코드를 생성했습니다.
-  Win32Project1.vcxproj -> H:\선린\1학년\디콘\최진영,이한수,조우진,홍찬의\나는야 상점주인(project)\Release\Win32Project1.exe
-  Win32Project1.vcxproj -> H:\선린\1학년\디콘\최진영,이한수,조우진,홍찬의\나는야 상점주인(project)\Release\Win32Project1.pdb (Full PDB)
