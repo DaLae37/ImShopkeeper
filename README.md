@@ -10,4 +10,4 @@
 
 [유튜브]
 
-[파일]()
+[파일](https://github.com/DaLae37/ImShopkeeper/releases/download/v1.0.0/howtoplay.pdf)
