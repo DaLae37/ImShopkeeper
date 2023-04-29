@@ -8,6 +8,6 @@
 
 # 플레이 방법
 
-[유튜브]
+[유튜브](https://youtu.be/ZgnNcjYFZeU)
 
 [파일](https://github.com/DaLae37/ImShopkeeper/releases/download/v1.0.0/howtoplay.pdf)
